@@ -14,8 +14,9 @@ A simple and user-friendly **To-Do App** built with **React**. This app allows y
   - Task deleted
  
 ## 🖼️ Preview
-
-https://to-do-app-one-ochre.vercel.app/
+Check out the live version of this project here:  
+👉 [Live Demo](https://to-do-app-one-ochre.vercel.app/)
+Tip: Right-click the link or use `Ctrl + Click` / `Cmd + Click` to open in a new tab.
 
 ## 📦 Tech Stack
 
